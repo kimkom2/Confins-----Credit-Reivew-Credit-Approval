@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Link</description>
+      <initValue>'http://172.16.26.81/CONFINS_TRAIN/MainX.aspx'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User Name</description>
+      <initValue>'83911114'</initValue>
+      <name>Creditadmin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password</description>
+      <initValue>'Password123$'</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Cari</description>
+      <initValue>'%'</initValue>
+      <name>Cari</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User name</description>
+      <initValue>'02230903'</initValue>
+      <name>CreditHeadoffice</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User name CA SPV</description>
+      <initValue>'16650717'</initValue>
+      <name>CASPV</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>CA DEPT HEAD</description>
+      <initValue>'37500914'</initValue>
+      <name>CADEPT</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Branch Manager</description>
+      <initValue>'43081114'</initValue>
+      <name>BMCAB</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>DIV HEAD SALES</description>
+      <initValue>'10591299'</initValue>
+      <name>DIVSALES</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Dir sales</description>
+      <initValue>'48660521'</initValue>
+      <name>DIRSALES</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>DIV ORM</description>
+      <initValue>'51011221'</initValue>
+      <name>DIVORM</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
