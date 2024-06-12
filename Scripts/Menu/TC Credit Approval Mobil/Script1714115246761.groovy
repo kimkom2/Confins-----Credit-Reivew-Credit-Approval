@@ -49,7 +49,7 @@ for (int baris = 1; baris <= Datahohendy.getRowNumbers(); baris++)
 		
 		WebUI.delay(2)	
 		
-		if (Datahohendy.getValue('Use', baris) == 'Yes' && Datahohendy.getValue('Bisnis Unit', baris) == 'Non Motor' && Datahohendy.getValue('Action Approval', baris) == 'Reject')
+		if (Datahohendy.getValue('Use', baris) == 'Yes' && Datahohendy.getValue('Bisnis Unit', baris) == 'Non Motor'&& Datahohendy.getValue('Action Approval', baris) == 'Reject')
 		{
 			WebUI.click(findTestObject('Object Repository/Menu/Credit Approval/Reject Reason/Reason '+ Datahohendy.getValue('Reason Reject', baris)))
 			

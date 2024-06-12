@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC Credit Review Non Motor</name>
+   <name>TC login Region sales Distribution Head</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>9ec59d08-792f-4ebf-865b-48730fc0dd9c</testCaseGuid>
+   <testCaseGuid>6850c034-51a4-4aef-8884-8768591c09ca</testCaseGuid>
 </TestCaseEntity>

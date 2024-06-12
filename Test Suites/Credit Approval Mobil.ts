@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Credit Approval Mobil - Multiguna Jasa</name>
+   <name>Credit Approval Mobil</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -29,7 +29,7 @@
       <guid>306068f3-ebb2-4b3b-9d31-660713ac62e7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Menu/TC Credit Approval Non Motor</testCaseId>
+      <testCaseId>Test Cases/Menu/TC Credit Approval Mobil</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -50,7 +50,7 @@
       <guid>e4317400-3759-458d-aa6d-02673548dca7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Menu/TC Credit Approval Non Motor</testCaseId>
+      <testCaseId>Test Cases/Menu/TC Credit Approval Mobil</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -71,7 +71,7 @@
       <guid>f0909b38-a665-4498-bf6e-b4bfe24442e9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Menu/TC Credit Approval Non Motor</testCaseId>
+      <testCaseId>Test Cases/Menu/TC Credit Approval Mobil</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -92,7 +92,7 @@
       <guid>c7f39cc1-236e-4dd6-921c-40189d7f3d75</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Menu/TC Credit Approval Non Motor</testCaseId>
+      <testCaseId>Test Cases/Menu/TC Credit Approval Mobil</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

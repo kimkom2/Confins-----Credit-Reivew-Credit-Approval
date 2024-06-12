@@ -59,4 +59,9 @@
       <initValue>'51011221'</initValue>
       <name>DIVORM</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Jamin</description>
+      <initValue>'06600606'</initValue>
+      <name>Jamin</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

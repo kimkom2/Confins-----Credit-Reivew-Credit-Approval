@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Credit Review Mobil - Multiguna Jasa</name>
+   <name>Credit Review Multiguna Jasa</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,9 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>e2792ab7-9862-40b2-bf88-62a92eed358c</testSuiteGuid>
+   <testSuiteGuid>5762d30c-b67f-4083-817c-96feefeb43cf</testSuiteGuid>
    <testCaseLink>
-      <guid>9e7e9a4f-f67d-48fd-ac1b-e2f716fb2062</guid>
+      <guid>c4838d4b-84d2-4959-b2d3-aae9160ce3f2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Login/TC login Credit Head office</testCaseId>
@@ -29,7 +29,7 @@
       <guid>cf25df59-3a2f-4547-9a4d-01ecac4e8062</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Menu/TC Credit Review Non Motor</testCaseId>
+      <testCaseId>Test Cases/Menu/TC Credit Review Mobil</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

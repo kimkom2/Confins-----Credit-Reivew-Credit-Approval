@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC Credit Approval Non Motor</name>
+   <name>TC Credit Approval Mobil</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>99bb30ca-f91c-4af6-9549-f64d44e635a4</testCaseGuid>
